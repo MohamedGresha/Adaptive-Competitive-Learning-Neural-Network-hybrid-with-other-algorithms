@@ -1,2 +1,4 @@
 # Adaptive-Competitive-Learning-Neural-Network-hybrid-with-other-algorithms
 In this section, an Adaptive Competitive Learning Neural Network hybrid with other algorithms has been proposed to cluster big input datasets. The first phase of the proposed algorithm divides big datasets into equal partitions (sub-datasets). In the second phase, the ACLNN algorithm is implemented using a parallel processing technique. As a result of this phase, the number of clusters is determined. The last phase uses this number of clusters for clustering the original big dataset.
+
+Mahdy M.G., Abas A.R., Mahmoud T.M. (2021) Multi-phase Adaptive Competitive Learning Neural Network for Clustering Big Datasets. In: Hassanien A.E. et al. (eds) Proceedings of the International Conference on Artificial Intelligence and Computer Vision (AICV2021). AICV 2021. Advances in Intelligent Systems and Computing, vol 1377. Springer, Cham. https://doi.org/10.1007/978-3-030-76346-6_65
