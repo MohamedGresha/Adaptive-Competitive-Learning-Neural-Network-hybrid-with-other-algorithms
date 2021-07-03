@@ -5,7 +5,7 @@
 %Mohamed Gresha
 %Oct. 18
 
-% frogsmfccs data set
+% 
 
 base_path = 'E:\';
 for q=1:5                %run the Algorithm 100 time to 
