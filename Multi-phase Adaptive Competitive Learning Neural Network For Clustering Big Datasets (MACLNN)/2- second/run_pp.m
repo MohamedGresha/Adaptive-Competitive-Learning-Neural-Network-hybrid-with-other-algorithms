@@ -5,7 +5,6 @@
 %Mohamed Gresha
 %Oct. 18
 
-% frogsmfccs data set
 
 base_path = 'C:\Users\Mohamed Gresha\Documents\MATLAB\New folder\ACL\ACL_P\bank\Result';
 for q=1:2                %run the Algorithm 100 time to 
