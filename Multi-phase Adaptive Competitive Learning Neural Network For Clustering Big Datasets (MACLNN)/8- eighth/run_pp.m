@@ -1,11 +1,14 @@
 % run an algorithm to estimate the number of clusters in a data set
 % for 100 times and save the results
 
-%Ahmed Rafat
-%Mohamed Gresha
-%Oct. 18
+% Ahmed Rafat
+% 2013
+% Updated by 
+% Mohamed Gresha
+% 2021
+%
 
-% frogsmfccs data set
+% 
 
 base_path = 'D:\';
 for q=1:5                %run the Algorithm 100 time to 
