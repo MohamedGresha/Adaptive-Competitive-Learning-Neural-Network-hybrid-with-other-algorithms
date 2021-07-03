@@ -5,7 +5,6 @@
 %Mohamed Gresha
 %Oct. 18
 
-% frogsmfccs data set
 
 base_path = 'E:\New folder\big\1-first data\result';
 for q=1:1                %run the Algorithm 100 time to 
