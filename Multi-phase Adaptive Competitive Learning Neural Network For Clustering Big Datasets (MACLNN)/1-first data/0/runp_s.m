@@ -6,8 +6,10 @@
 
 % Ahmed Rafat
 % Mar. 13
-
-% Pima data set
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
 kopt=[];
 NMI_vec=[];
 bestk_vec=[];
