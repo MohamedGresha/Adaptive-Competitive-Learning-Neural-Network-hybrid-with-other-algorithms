@@ -6,7 +6,11 @@ function [bestk,bestw,ACL,clusterid,NMI,NN]=demo3(k)
 
 %Ahmed Rafat
 %MAR. 13
-
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
+%
 load atiris_big;
 
 y = X';
