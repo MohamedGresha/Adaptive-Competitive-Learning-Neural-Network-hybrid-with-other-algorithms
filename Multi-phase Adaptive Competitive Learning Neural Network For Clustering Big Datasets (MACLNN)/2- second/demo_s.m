@@ -1,6 +1,6 @@
 function [bestk,bestw,ACL,clusterid,NMI,NN]=demo_s(k)
 % this is demo1.m a function tests differnet algorithms in estimating the number
-% of clusters of the Anuran Calls (MFCCs) data set.
+% of clusters .
 %
 %NMI is the normalized mutual information between the cluster id vector and the class id vector.
 
