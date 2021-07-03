@@ -6,7 +6,11 @@ function [bestk,bestw,ACL,clusterid,NMI,ACL_vec,k_vec]=demo12()
 
 %Ahmed Rafat
 %Nov. 11
-
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
+%
 load wine;
 y = X';
 X=y';
