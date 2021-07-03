@@ -1,11 +1,12 @@
 % run an algorithm to estimate the number of clusters in a data set
 % for 100 times and save the results
 
-%Ahmed Rafat
-%Mohamed Gresha
-%Oct. 18
-
-% frogsmfccs data set
+% Ahmed Rafat
+% Mar. 13
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
 
 base_path = 'C:\Users\Mohamed Gresha\Documents\MATLAB\New folder\ACL\ACL_P\bank\Result';
 for q=1:10                %run the Algorithm 100 time to 
