@@ -1,12 +1,16 @@
 function [bestk,bestw,ACL,clusterid,NMI,NN]=demo3(k)
 % this is demo3.m a function tests differnet algorithms in estimating the number
-% of clusters of the Iris data set.
+% of clusters.
 %
 %NMI is the normalized mutual information between the cluster id vector and the class id vector. 
 
 %Ahmed Rafat
 %MAR. 13
-
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
+%
 load atwine_big;
 y = X';
 X=y';
